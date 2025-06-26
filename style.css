@@ -570,7 +570,6 @@ video {
 }
 
 .section7 {
-    width: 100%;
     min-height: 100vh;
     background-image: url(img/bg-img-3.jpg);
     background-size: cover;
@@ -593,8 +592,6 @@ video {
 .section7-item1 {
     flex-basis:500px;
     height: 470px;
-    border: 1px solid;
-
 }
 
 .section7-item2 {
