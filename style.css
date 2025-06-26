@@ -564,7 +564,7 @@ video {
 }
 
 .section7 {
-    min-height: 100vh;
+    min-height: auto;
     background-image: url(img/bg-img-3.jpg);
     background-size: cover;
     background-position: center;
