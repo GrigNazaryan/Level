@@ -457,7 +457,7 @@ video {
 }
 
 .section6 {
-    min-height: 160vh;
+    min-height: auto;
     background-image: url(img/bg-img-2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
